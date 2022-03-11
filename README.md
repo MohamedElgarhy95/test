@@ -12,7 +12,7 @@
 diagonal
 
 # How to Play
-* Enter your name to start the game
+* Enter your name 
 * click Start Button and enjoy 
 
 #  Author 
