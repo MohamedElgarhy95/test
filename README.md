@@ -15,6 +15,6 @@ diagonal
 * click Start Button and enjoy 
 
 #  Author 
-[Ahmed Hassan Ali](https://github.com/ahmedhassan1999)
-[Mohamed Ibrahim Elgarhy](https://github.com/MohamedElgarhy95)
-[Mahmoud Shabaan Ramadan](https://github.com/mahmoudshaaban5)
+* [Ahmed Hassan Ali](https://github.com/ahmedhassan1999)
+* [Mohamed Ibrahim Elgarhy](https://github.com/MohamedElgarhy95)
+* [Mahmoud Shabaan Ramadan](https://github.com/mahmoudshaaban5)
